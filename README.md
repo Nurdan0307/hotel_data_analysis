@@ -43,4 +43,16 @@ This dashboard focuses on repeat guests and their preferences:
 ## 📌 Key Insights 
 - Identification of guest preferences and segmentation by demographics. 
 - Analysis of operational metrics like parking usage, meal preferences, and special requests. 
-- Insights into market segments and distribution channels to guide business decisions. 
+- Insights into market segments and distribution channels to guide business decisions.
+
+## Contributing 
+
+Contributions are welcome! Feel free to submit a **pull request** or open an **issue** for suggestions or improvements. 
+
+## 🔗 Contact 
+
+For questions or feedback, feel free to reach out: 
+- **Email:** [nurdankurt96@gmailcom](mailto:nurdankurt96@gmail.com) 
+- **GitHub:** [GitHub Nurdan0307](https://github.com/Nurdan0307) 
+
+Thank you for visiting this repository!
